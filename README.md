@@ -10,4 +10,4 @@
 - 💬 My English fluency is B1
 - 📫 How to reach me: rodrigoheirbhor@gmail.com / Whatsapp: +55 99 991379250
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I learned to program out of pure curiosity 🤓 after successfully hacking a car game from the Google Play store to add some coins 👀, sorry 🥺, at that time I was just a teenager without a credit card or a penny 💵 in my pocket lol
+- ⚡ Fun fact: I learned to program out of pure curiosity and alone 🤓 after successfully hacking a car game from the Google Play store to add some coins 👀, sorry 🥺, at that time I was just a teenager without a credit card or a penny 💵 in my pocket lol
