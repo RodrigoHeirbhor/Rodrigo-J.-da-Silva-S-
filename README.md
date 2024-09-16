@@ -7,7 +7,7 @@
 - 🔭 I’m currently studying QA Automation and QA process
 - 🌱 I’m currently learning about GitHub, Cypress, Robot Framework, JavaScript, Postman, and BDD
 - 👯 I have a second account named HeirbhorRodrigo that is used to make collaborative tests between itself
-- 🤔 I’m looking for help with Junior QA Internship
+- 🤔 I’m looking for help with a Junior QA Internship
 - 💬 My English fluency is B1
 - 📫 How to reach me: rodrigoheirbhor@gmail.com / Whatsapp: +55 99 991379250
 - 😄 Pronouns: He/Him
