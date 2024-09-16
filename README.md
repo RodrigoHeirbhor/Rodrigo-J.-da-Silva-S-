@@ -9,9 +9,9 @@
 - 👯 I have a second account named HeirbhorRodrigo that is used to make collaborative tests between itself
 - 🤔 I’m looking for help with a Junior QA Internship
 - 💬 My English fluency is B1
-- 📫 How to reach me: 
+- 📫 How to reach me:
 <br><div>
-<a href> <img loading="lazy" src= src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white><a/> +55 99 991379250
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) +55 99 991379250
 <a href="https://instagram.com/rodrigo.heirbhor" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:rodrigoheirbhor@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rodrigoheirbhor" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
