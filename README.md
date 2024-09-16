@@ -10,7 +10,6 @@
 - 🤔 I’m looking for help with a Junior QA Internship
 - 💬 My English fluency is B1
 - 📫 How to reach me: +55 99 991379250
-  <br>
 <div>
   <br>
      <a href="https://instagram.com/rodrigo.heirbhor" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
