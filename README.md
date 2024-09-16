@@ -10,7 +10,6 @@
 - 🤔 I’m looking for help with a Junior QA Internship
 - 💬 My English fluency is B1
 - 😄 Pronouns: He/Him
-<br>
 - ⚡ Fun fact: I learned to program out of pure curiosity and alone 🤓 after successfully hacking a car game from the Google Play store to add some coins 👀, sorry 🥺, at that time I was just a teenager without a credit card or a penny 💵 in my pocket lol
 - 📫 How to reach me: +55 99 991379250
 <div>
