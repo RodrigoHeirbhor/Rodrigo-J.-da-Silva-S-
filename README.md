@@ -18,6 +18,7 @@
     <a href="https://www.linkedin.com/in/rodrigoheirbhor" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 - 😄 Pronouns: He/Him
+<br>
 - ⚡ Fun fact: I learned to program out of pure curiosity and alone 🤓 after successfully hacking a car game from the Google Play store to add some coins 👀, sorry 🥺, at that time I was just a teenager without a credit card or a penny 💵 in my pocket lol
 - ##Tools and Technologies:
 <br>
