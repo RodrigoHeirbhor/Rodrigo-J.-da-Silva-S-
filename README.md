@@ -13,5 +13,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I learned to program out of pure curiosity and alone 🤓 after successfully hacking a car game from the Google Play store to add some coins 👀, sorry 🥺, at that time I was just a teenager without a credit card or a penny 💵 in my pocket lol
 - ##Tools and Technologies:
-<img loading="lazy"
+<br><img loading="lazy"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="80" height="80"/><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" width="80" height="80"/><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="80" height="80"/><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" height="80"/>
