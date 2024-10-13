@@ -7,7 +7,7 @@
 - 🔭 I’m currently studying QA Automation and QA process
 - 🌱 I’m currently learning about GitHub, Cypress, Robot Framework, JavaScript, Postman, and BDD
 - 👯 I have a second account named HeirbhorRodrigo that is used to make collaborative tests between itself
-- 🤔 I’m looking for help with a Junior QA Internship
+- 🤔 I’m looking for help with a passage to Mars lol
 - 💬 My English fluency is B1
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I learned to program out of pure curiosity and alone 🤓 after successfully hacking a car game from the Google Play store to add some coins 👀, sorry 🥺, at that time I was just a teenager without a credit card or a penny 💵 in my pocket lol
