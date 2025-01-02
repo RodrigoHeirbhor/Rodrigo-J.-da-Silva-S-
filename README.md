@@ -1,4 +1,4 @@
-## Hi devs 👋
+## Hey visitor, welcome 👋
 
 #My name is Rodrigo Júnior! and my nickname is RodrigoHeirbhor!
 <br><br>
